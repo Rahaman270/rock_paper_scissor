@@ -1,0 +1,43 @@
+.score {
+  font-family: Roboto;
+}
+.triggerBtn {
+  cursor: pointer;
+  width: 60px;
+  height: 28px;
+  padding: 10px;
+  color: #223a5f;
+  font-family: 'Bree Serif';
+  font-size: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  border-style: none;
+  outline: none;
+}
+
+.closeBtn {
+  cursor: pointer;
+  background-color: transparent;
+  width: 20px;
+  height: 20px;
+  font-size: 18px;
+  border-style: none;
+  outline: none;
+  align-self: flex-end;
+  margin-bottom: 5px;
+}
+
+.result-button {
+  cursor: pointer;
+
+  background-color: #fff;
+  color: #223a5f;
+  font-family: bree serif;
+  border-radius: 8px;
+  padding: 8px;
+  border-width: 0px;
+  outline: 0px;
+}
